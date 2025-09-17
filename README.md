@@ -65,12 +65,11 @@ O objetivo é aprender os conceitos básicos de desenvolvimento de jogos 2D: spr
 ---
 
 ## 🚧 Possíveis Melhorias
-
-- ✅ Animações do jogador (andar, pular).  
+  
 - ✅ Adicionar efeitos sonoros e música.  
 - ✅ Criar menus de início e fim (Game Over / Victory).  
 - ✅ Novos obstáculos e inimigos.  
-- ✅ Sistema de pontuação ou vidas.  
+- ✅ Sistema de vidas.  
 - ✅ Mais níveis com layouts diferentes.  
 - ✅ Ajustar física (gravidade, velocidade, pulo) para deixar o jogo mais fluido.  
 
