@@ -86,5 +86,4 @@ Este projeto foi baseado no tutorial oficial do GameMaker:
 
 ## 📜 Licença
 
-Este projeto é apenas para **aprendizado**.  
-Verifique a licença do repositório ou ajuste conforme necessário.  
+Este projeto é apenas para **aprendizado**.
