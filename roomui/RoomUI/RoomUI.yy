@@ -1,0 +1,24 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"UILayer","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"Game","alignItems":2,"children":[
+            {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"alignSelf":1,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_5156E974","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":3,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5156E974","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_diamond","path":"sprites/spr_diamond/spr_diamond.yy",},"x":8.0,"y":0.0,},
+                {"$GMRTextItem":"v2","%Name":"text_607DE2E5","alignment":1,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":1,"resourceType":"InstanceFlexProps",},"fontId":{"name":"Gem","path":"fonts/Gem/Gem.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_607DE2E5","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"0","wrap":false,"x":9.0,"xorigin":0.0,"y":-1.0,"yorigin":0.0,},
+              ],"flexDirection":0,"height":{"unit":3,"value":18.0,},"justifyContent":1,"marginLeft":{"unit":1,"value":5.0,},"name":"FlexPanel","nodeColour":4293937394,"positionBottom":{"unit":1,"value":0.0,},"positionLeft":{"unit":1,"value":0.0,},"positionRight":{"unit":1,"value":0.0,},"positionTop":{"unit":1,"value":-30.0,},"positionType":0,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":92.0,},},
+          ],"clipContent":true,"flexDirection":0,"height":{"unit":1,"value":30.0,},"justifyContent":1,"name":"Game","nodeColour":4293937394,"positionBottom":{"unit":1,"value":0.0,},"positionLeft":{"unit":1,"value":0.0,},"positionRight":{"unit":1,"value":0.0,},"positionTop":{"unit":1,"value":150.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer","nodeColour":4294085960,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"Platformer",
+    "path":"Platformer.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":true,
+}

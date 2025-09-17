@@ -1,0 +1,48 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"ts_level",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":18,
+    "SerialiseWidth":28,
+    "TileCompressedData":[
+      12,20,0,1,0,2,0,3,0,0,4,0,5,-46,0,10,21,0,22,0,23,0,0,24,0,25,-44,0,16,40,0,41,0,42,0,43,0,0,47,0,48,
+      0,49,0,50,-42,0,5,61,0,62,0,63,-30,0,7,153,0,154,0,155,0,156,-12,0,7,80,0,81,0,82,0,83,-30,0,12,34,0,
+      35,0,0,76,0,56,0,36,0,16,-9,0,5,121,0,122,0,123,-30,0,12,54,0,55,0,0,96,0,17,0,18,0,19,-9,0,5,141,0,
+      142,0,143,-30,0,19,74,0,75,0,0,116,0,37,0,38,0,39,0,0,97,0,98,0,99,-42,0,14,136,0,57,0,58,0,59,0,0,117,
+      0,118,0,119,-43,0,5,77,0,78,0,79,-3,0,5,137,0,138,0,139,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"ts_level",
+  "out_columns":13,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_level",
+    "path":"sprites/spr_level/spr_level.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[
+    {"$GMTileAnimation":"","%Name":"JumpPad","frames":[107,108,],"name":"JumpPad","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+    {"$GMTileAnimation":"","%Name":"Flag","frames":[111,112,],"name":"Flag","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+  ],
+  "tileAnimationSpeed":5.0,
+  "tileHeight":18,
+  "tilehsep":1,
+  "tilevsep":1,
+  "tileWidth":18,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":180,
+}
